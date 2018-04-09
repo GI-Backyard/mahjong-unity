@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 9fcdbd0717e7b47409f00b30db9bd379
+timeCreated: 1482031187
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: //RootNode
+    100004: Neo_Head
+    100006: Neo_Hips
+    100008: Neo_LeftArm
+    100010: Neo_LeftFoot
+    100012: Neo_LeftForeArm
+    100014: Neo_LeftHand
+    100016: Neo_LeftLeg
+    100018: Neo_LeftShoulder
+    100020: Neo_LeftToeBase
+    100022: Neo_LeftUpLeg
+    100024: Neo_Neck
+    100026: Neo_Reference
+    100028: Neo_RightArm
+    100030: Neo_RightFoot
+    100032: Neo_RightForeArm
+    100034: Neo_RightHand
+    100036: Neo_RightLeg
+    100038: Neo_RightShoulder
+    100040: Neo_RightToeBase
+    100042: Neo_RightUpLeg
+    100044: Neo_Spine
+    100046: Neo_Spine1
+    100048: Neo_Spine2
+    400000: Body
+    400002: //RootNode
+    400004: Neo_Head
+    400006: Neo_Hips
+    400008: Neo_LeftArm
+    400010: Neo_LeftFoot
+    400012: Neo_LeftForeArm
+    400014: Neo_LeftHand
+    400016: Neo_LeftLeg
+    400018: Neo_LeftShoulder
+    400020: Neo_LeftToeBase
+    400022: Neo_LeftUpLeg
+    400024: Neo_Neck
+    400026: Neo_Reference
+    400028: Neo_RightArm
+    400030: Neo_RightFoot
+    400032: Neo_RightForeArm
+    400034: Neo_RightHand
+    400036: Neo_RightLeg
+    400038: Neo_RightShoulder
+    400040: Neo_RightToeBase
+    400042: Neo_RightUpLeg
+    400044: Neo_Spine
+    400046: Neo_Spine1
+    400048: Neo_Spine2
+    4300000: Body
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
