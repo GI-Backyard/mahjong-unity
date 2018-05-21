@@ -2,3 +2,4 @@ Library
 out
 Assets/u3d-exporter/Editor
 Temp
+Assembly-CSharp-Editor.csproj
