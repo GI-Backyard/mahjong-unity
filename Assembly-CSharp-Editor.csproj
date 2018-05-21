@@ -60,12 +60,14 @@
      <Compile Include="Assets\u3d-exporter\Editor\Exporter.Mesh.cs" />
      <Compile Include="Assets\u3d-exporter\Editor\Exporter.Node.cs" />
      <Compile Include="Assets\u3d-exporter\Editor\Exporter.Prefab.cs" />
+     <Compile Include="Assets\u3d-exporter\Editor\Exporter.Preloads.cs" />
      <Compile Include="Assets\u3d-exporter\Editor\Exporter.Scene.cs" />
      <Compile Include="Assets\u3d-exporter\Editor\Exporter.Skin.cs" />
      <Compile Include="Assets\u3d-exporter\Editor\Exporter.Sprite.cs" />
      <Compile Include="Assets\u3d-exporter\Editor\Exporter.Texture.cs" />
      <Compile Include="Assets\u3d-exporter\Editor\gltf.cs" />
      <Compile Include="Assets\u3d-exporter\Editor\json-defines.cs" />
+     <Compile Include="Assets\u3d-exporter\Editor\Metrics.cs" />
      <Compile Include="Assets\u3d-exporter\Editor\registry.cs" />
      <Compile Include="Assets\u3d-exporter\Editor\ScriptCompDescEditor.cs" />
      <Compile Include="Assets\u3d-exporter\Editor\ScriptComponentEditor.cs" />
