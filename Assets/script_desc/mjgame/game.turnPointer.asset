@@ -12,7 +12,5 @@ MonoBehaviour:
   m_Name: game.turnPointer
   m_EditorClassIdentifier: 
   properties:
-  - name: mjGameNode
-    type: 4
   - name: turnPointer
     type: 4

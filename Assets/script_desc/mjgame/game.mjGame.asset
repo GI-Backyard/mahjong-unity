@@ -16,5 +16,3 @@ MonoBehaviour:
     type: 4
   - name: main_ui
     type: 4
-  - name: waiting_ui
-    type: 4
