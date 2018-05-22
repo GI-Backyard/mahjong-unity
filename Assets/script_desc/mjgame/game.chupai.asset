@@ -14,7 +14,5 @@ MonoBehaviour:
   properties:
   - name: gameRoot
     type: 4
-  - name: mjGameNode
-    type: 4
   - name: chupaiPointer
     type: 4

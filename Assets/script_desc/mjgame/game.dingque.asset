@@ -14,5 +14,3 @@ MonoBehaviour:
   properties:
   - name: dingqueRoot
     type: 4
-  - name: mjGameNode
-    type: 4
